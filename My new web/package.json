@@ -1,0 +1,14 @@
+{
+    "name": "my-new-web",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "echo 'No start command specified'",
+      "build": "echo 'No build command specified'"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "engines": {
+      "node": ">=10.0.0"
+    }
+  }
+  
